@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.264d6c72.chunk.css",
+    "main.js": "/static/js/main.de2f8572.chunk.js",
+    "main.js.map": "/static/js/main.de2f8572.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.fdc87126.js",
+    "runtime~main.js.map": "/static/js/runtime~main.fdc87126.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.c9fe056e.chunk.js": "/static/js/2.c9fe056e.chunk.js",
+    "static/js/2.c9fe056e.chunk.js.map": "/static/js/2.c9fe056e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3d707d75073c22c7948ae163e932ae1e.js": "/precache-manifest.3d707d75073c22c7948ae163e932ae1e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.264d6c72.chunk.css.map": "/static/css/main.264d6c72.chunk.css.map",
+    "static/media/BusinessPic2.png": "/static/media/BusinessPic2.fd00e645.png",
+    "static/media/FlumeGorge2.jpg": "/static/media/FlumeGorge2.6c58d795.jpg",
+    "static/media/GreatWallPic.png": "/static/media/GreatWallPic.974de21f.png",
+    "static/media/HungarianSquare.png": "/static/media/HungarianSquare.10a38a8e.png",
+    "static/media/ResumeCopy.pdf": "/static/media/ResumeCopy.247d3111.pdf"
+  }
+}
